@@ -1,0 +1,30 @@
+{
+  "name": "maratonastefanini",
+  "version": "1.0.0",
+  "description": "codigos maratona da semana 1 angular em desenvolvimento da stefanini",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjunieko/maratonaStefanini.git"
+  },
+  "author": "joao junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjunieko/maratonaStefanini/issues"
+  },
+  "homepage": "https://github.com/jjunieko/maratonaStefanini#readme",
+  "dependencies": {
+    "angular": "^1.8.1",
+    "grunt": "^1.3.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-connect": "^3.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-uglify": "^5.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "devDependencies": {}
+}
